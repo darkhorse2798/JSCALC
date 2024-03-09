@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: #414141;
+
+}
+.center{
+    /* background-color:#2121; */
+    width: 100vw;
+    height: 80vh;
+    
+}
+#banner{
+    margin:22px auto;
+    display: flex;
+    justify-content: center;
+    /* background-color: blue; */
+}
+#clock{
+background-color: rgb(174, 95, 69);
+width: 40px;
+margin:20px auto ;
+padding: 30px;
+display: flex;
+justify-content: center;
+border-radius: 5px;
+}
