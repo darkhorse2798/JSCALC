@@ -6,5 +6,6 @@ setInterval(() => {
     clocks.innerHTML=date.toLocaleTimeString();
 }, 1000);
 
-//Now i am creating my new Branch
+// This is 2nd emp branch 
+
 
